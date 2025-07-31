@@ -25,11 +25,7 @@ export default function LandingPage() {
         <h2 className="text-xl font-medium mb-4">By Team Autobots</h2>
 
         <ul className="mb-8 text-lg space-y-1">
-          <li>Guha Pranav Yelchuru</li>
           <li>Karthik V</li>
-          <li>Ramakrishnan S</li>
-          <li>Kushagra Singh Gaur</li>
-
         </ul>
 
         <button
